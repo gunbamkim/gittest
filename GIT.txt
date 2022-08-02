@@ -1,0 +1,8 @@
+보내는이 : git config --global user.name "GB"
+이메일 : git config -- global user.email "wintersp@naver.com"
+이메일 확인 : git config --global --list
+경로설정 : cd /c
+	      cd git
+	    git init
+추가하기 : git add ex01.html (개별 추가)
+	     git add . (전체 추가)
